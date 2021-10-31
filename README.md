@@ -1,4 +1,4 @@
-# Challenge-3-Pass-an-object-and-keys-in-a-function-to-get-a-value
+# Pass-an-object-and-keys-in-a-function-to-get-a-value
 ## Before you begin:
 The Script is written in python 3 and will not support python 2
 
